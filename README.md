@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=medium&logoColor=black"/>
+    <img src="https://img.shields.io/badge/white?style=for-the-badge&logo=medium&logoColor=black"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
